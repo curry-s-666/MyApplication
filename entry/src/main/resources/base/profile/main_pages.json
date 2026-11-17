@@ -1,0 +1,18 @@
+{
+  "src": [
+    "pages/Guide",
+    "pages/AdPage",
+    "pages/Index",
+    "pages/Login",
+    "pages/PersonalInfo",
+    "pages/PersonalEdit",
+    "pages/FullPlayer",
+    "pages/PlaylistDetail",
+    "pages/Favorites",
+    "pages/ThemeSettings",
+    "pages/DistributedNet",
+    "pages/MusicFlow",
+    "pages/VideoFlow",
+    "pages/AccountSettings"
+  ]
+}

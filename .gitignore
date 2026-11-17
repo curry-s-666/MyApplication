@@ -1,0 +1,27 @@
+/node_modules
+/oh_modules
+/local.properties
+/.idea
+**/build
+/.hvigor
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+**/.test
+
+# IDE / Agent 缓存
+/.preview
+/.lingma
+/.agents
+
+# 课程资料（含 150MB+ 的实训报告，超出 GitHub 单文件 100MB 限制）
+/eg/
+
+# 演示用音视频：体积过大，且不适合上传版权内容
+entry/src/main/resources/rawfile/**/*.mp4
+entry/src/main/resources/rawfile/**/*.mp3
+
+# 系统文件
+.DS_Store
+Thumbs.db

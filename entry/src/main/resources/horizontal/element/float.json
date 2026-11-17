@@ -1,0 +1,25 @@
+{
+  "float": [
+    {
+      "name": "float_1",
+      "value": "30.6"
+    },
+    {
+      "name": "name",
+      "value": "30.6"
+    },
+    {
+      "name": "text_width_portrait",
+      "value": "30.6"
+    },
+    {
+      "name": "back_height_portrait",
+      "value": "30.6"
+    },
+
+    {
+      "name": "background",
+      "value": "30.6"
+    }
+  ]
+}
